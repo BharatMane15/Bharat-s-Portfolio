@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.efbcb505.css",
-    "main.js": "/repository-name/static/js/main.67fdb63c.js",
-    "static/media/ECom.png": "/repository-name/static/media/ECom.39eaf31344eafe81ec39.png",
-    "static/media/FoodieSearchAppThumbnail.png": "/repository-name/static/media/FoodieSearchAppThumbnail.d22d02ba70185c016fe1.png",
-    "static/media/userSearchThumbnail.png": "/repository-name/static/media/userSearchThumbnail.ac9fd16be19ab4e3cd26.png",
-    "static/media/dev.svg": "/repository-name/static/media/dev.5ac54af8cdecb6b477d6597a6bae015b.svg",
-    "static/media/profile.jpeg": "/repository-name/static/media/profile.5bd2f2a31087b4d48faa.jpeg",
-    "static/media/shake.svg": "/repository-name/static/media/shake.c7165a1f59e2367bf4395199384f606f.svg",
-    "index.html": "/repository-name/index.html",
-    "main.efbcb505.css.map": "/repository-name/static/css/main.efbcb505.css.map",
-    "main.67fdb63c.js.map": "/repository-name/static/js/main.67fdb63c.js.map"
+    "main.css": "/Bharat-s-Portfolio/static/css/main.efbcb505.css",
+    "main.js": "/Bharat-s-Portfolio/static/js/main.da589227.js",
+    "static/media/ECom.png": "/Bharat-s-Portfolio/static/media/ECom.39eaf31344eafe81ec39.png",
+    "static/media/FoodieSearchAppThumbnail.png": "/Bharat-s-Portfolio/static/media/FoodieSearchAppThumbnail.d22d02ba70185c016fe1.png",
+    "static/media/userSearchThumbnail.png": "/Bharat-s-Portfolio/static/media/userSearchThumbnail.ac9fd16be19ab4e3cd26.png",
+    "static/media/dev.svg": "/Bharat-s-Portfolio/static/media/dev.5ac54af8cdecb6b477d6597a6bae015b.svg",
+    "static/media/profile.jpeg": "/Bharat-s-Portfolio/static/media/profile.5bd2f2a31087b4d48faa.jpeg",
+    "static/media/shake.svg": "/Bharat-s-Portfolio/static/media/shake.c7165a1f59e2367bf4395199384f606f.svg",
+    "index.html": "/Bharat-s-Portfolio/index.html",
+    "main.efbcb505.css.map": "/Bharat-s-Portfolio/static/css/main.efbcb505.css.map",
+    "main.da589227.js.map": "/Bharat-s-Portfolio/static/js/main.da589227.js.map"
   },
   "entrypoints": [
     "static/css/main.efbcb505.css",
-    "static/js/main.67fdb63c.js"
+    "static/js/main.da589227.js"
   ]
 }
